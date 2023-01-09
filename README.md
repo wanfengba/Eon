@@ -12,3 +12,5 @@
 <img src="https://user-images.githubusercontent.com/83448377/211307716-c73137f9-6a98-4825-a8a8-2775cd18d5d2.png" width="60%" height="250px">
 <p>手机端</p>
 <img src="https://user-images.githubusercontent.com/83448377/211307788-f60c4f40-c72c-4a81-a089-dba3f033ddd3.png" width="30%" height="250px">
+<p>请我喝奶茶</p>
+<img src="https://user-images.githubusercontent.com/83448377/211309402-e58fc71f-30ae-4601-a991-abc2defc4353.png" width="50%">
